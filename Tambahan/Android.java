@@ -1,5 +1,5 @@
 HashMap<String, String> loginParams = new HashMap<String, String>();
-loginParams.put("name", "Nabil Muhammad Firdaus");
+loginParams.put("nama", "Nabil Muhammad Firdaus");
 loginParams.put("umur", "20");
 loginParams.put("jabatan", "Spesialis Mata");
 
